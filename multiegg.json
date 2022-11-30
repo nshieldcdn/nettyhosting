@@ -82,5 +82,4 @@
             "rules": "nullable|string",
             "field_type": "text"
       }
-    ]
 }
