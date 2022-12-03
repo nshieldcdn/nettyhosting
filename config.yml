@@ -1,0 +1,4 @@
+listeners:
+- query_port: 25577
+  motd: '&8» &1NettyHosting &8» &4Your Free Hosting &8» &fhttps://dsc.gg/nettyhosting'
+  max_players: 2022
